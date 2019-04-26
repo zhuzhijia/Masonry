@@ -52,7 +52,7 @@ static NSString * const kMASCellReuseIdentifier = @"kMASCellReuseIdentifier";
     //35
 
     //36
-
+    //37
     self.exampleControllers = @[
         [[MASExampleViewController alloc] initWithTitle:@"Basic"
                                               viewClass:MASExampleBasicView.class],
