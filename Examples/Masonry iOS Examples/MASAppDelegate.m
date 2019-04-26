@@ -28,8 +28,12 @@
     self.window.rootViewController = navigationController;
     [self.window makeKeyAndVisible];
     return YES;
+
     //11
     //22
+
+    //111
+    //222
 }
 
 @end
