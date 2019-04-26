@@ -22,6 +22,7 @@
     //git1-0
     //git1-0
     //git1-1
+    //git1-2
     UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:MASExampleListViewController.new];
     self.window.rootViewController = navigationController;
     [self.window makeKeyAndVisible];
